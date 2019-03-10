@@ -1,5 +1,5 @@
 # Pyber
-matplotlib homework, Pyber edition
+(matplotlib homework, Pyber edition)
 
 This project anylazes data of a fictional ride-share company (Pyber) with bubble charts and pie chartes to determine:
 *Average fare per city
